@@ -7,7 +7,7 @@ Init core trees without any device/kernel/vendor :
 
 Init repo with all devices, kernels and vendors supported by AOKP :
 
-    $ repo init -u https://github.com/AOKP/platform_manifest.git -b jb-mr2 -g all,kernel,device,vendor
+    $ repo init -u https://github.com/SaltyBean/platform_manifest-2.git -b jb-mr2 -g all,kernel,device,vendor
 
 Init repo only for a particular device :
 
